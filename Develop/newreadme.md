@@ -1,8 +1,8 @@
 # Readme Generator Pro
-  ![badge](https://img.shields.io/badge/license-none-informational)
+  ![badge](https://img.shields.io/badge/license-ApacheLicense2.0-informational)
 
   ## Description: 
-  Generates a readme file by answering questions in the command line.
+  Generates readme files
 
   ## Table of Contents: 
   * ### [Installation](#installation)
@@ -14,19 +14,20 @@
 ---
 
   ## Installation:
-  #### Install npm
+  #### Installation steps
 
   ## Usage:
-  #### Use to create a readme file for your project.
+  #### Usage info
 
   ## Contributors:
   #### None
 
   ## Tests:
-  #### Open terminal and navigate to the root folder. Run 'node index.js' and answer questions. Upon completion of questions a readme file will be generated.
+  #### Testing instructions
 
   ## License:
-  #### None
+  #### More on the ApacheLicense2.0
+  https://choosealicense.com/licenses/apache-2.0
 
   ---
 
@@ -36,4 +37,4 @@
   #### [GitHub Page](https://github.com/Zakonik13)
 
   ### Contact Me:
-  #### Reach me at zakonik1@hotmail.com
+  #### Reach me at hunter.wheeler@ymail.com
