@@ -23,7 +23,7 @@
   #### None
 
   ## Tests:
-  #### Open terminal and navigate to the root folder. Run 'node index.js' and answer questions. Upon completion of questions a readme file will be generated.
+  #### Open terminal and navigate to the root folder, then Develop. Install npm through command line. Run 'node index.js' and answer questions. Upon completion of questions a readme file will be generated.
   
   ![Example](./Develop/images/command-line-prompts.png)
 
